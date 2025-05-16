@@ -43,7 +43,7 @@
         "file": "PDF:files/13/Fajemisin et al. - 2024 - Optimization with constraint learning A framework and survey.pdf:application/pdf",
         "issn": "03772217",
         "journal": "European Journal of Operational Research",
-        "keywords": "type:{Survey paper, Multi-Constraint and Hybrid}}",
+        "keywords": "type:{Survey paper, Multi-Constraint and Hybrid}",
         "language": "en",
         "month": "apr,",
         "number": "1",
